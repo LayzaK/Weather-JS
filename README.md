@@ -1,5 +1,6 @@
 # PROJETO WEATHER API - JAVASCRIPT
 aplicação desenvolvida para testar o consumo de api de clima.
+
 __deploy__: https://layzak.github.io/Weather-JS/
 
 ## Linguagens utilizadas
